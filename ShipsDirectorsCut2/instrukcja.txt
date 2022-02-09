@@ -1,0 +1,25 @@
+GRA W STATKI - INSTRUKCJA
+
+Gra odbywa siê na dwóch planszach  10x10.
+Ka¿dy z graczy ma do dysopozycji dwie plansze.
+Jedna informuje o pozycji w³asnych masztowców, a druga (pomocnicza) 
+s³u¿y do zaznaczania miejsc oddanych strza³ów we flotê przeciwnika.
+
+Gra przebiega naprzemiennie: najpierw jeden z graczy oddaje strza³, 
+jeœli uda siê mu trafiæ, mo¿e kontynuowaæ „strzelanie” do momentu, a¿ chybi.
+Zatopienie statku ma miejsce, kiedy wszystkie kratki symbolizuj¹ce ten okrêt
+zostan¹ „trafione” przez drugiego gracza.
+
+"#" - oznacza miejsce, gdzie stoi niezatopiona czêœæ masztowca
+"X" - oznacza trafiony masztowiec
+"~" - oznacza miejsce oddania strza³u, który okaza³ siê niecelny
+"-" - oznacza miejsce, gdzie jeszcze nie oddano strza³u
+
+Przebieg tury:
+- podanie wspó³rzêdnych strza³u
+- naciœniêcie klawisza "Enter"
+- w przypadku trafienia gracz otrzymuje bonusowy strza³
+- gdy gracz nie trafi, jego tura koñczy siê
+
+Gra koñczy siê w momencie zniszenia wszystkich masztowców przeciwnika.
+Wygrywa ten, kto zniszczy³ wszytskie statki oponenta.
